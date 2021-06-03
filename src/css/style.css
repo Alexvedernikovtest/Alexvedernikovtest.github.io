@@ -1,0 +1,209 @@
+body {
+  font-family: Arial, sans-serif;
+}
+nav {
+  width: 100%;
+  height: 60px;
+  background: #344051;
+}
+
+.logo {
+  color: #fff;
+  font-size: 28px;
+  line-height: 60px;
+  margin-left: 388px;
+  float: left;
+}
+
+.menu {
+  float: left;
+  margin-left: 400px;
+}
+
+.menu li {
+  float: left;
+  line-height: 60px;
+  color: #fff;
+  margin-right: 30px;
+  text-transform: uppercase;
+}
+
+.main {
+  width: 100%;
+  height: calc(100% - 60px);
+  background: url(../img/boy.png) 90% 100% / auto 85% no-repeat,
+    url(../img/bg.jpg) center/cover no-repeat;
+}
+
+.title__container {
+  float: left;
+  margin: 330px 0px 0px 404px;
+  color: #2c284a;
+  text-align: center;
+}
+
+.title__container h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.title__container h4 {
+  margin-top: 40px;
+  font-size: 22px;
+  color: #79818d;
+}
+
+.title__container input {
+  height: 40px;
+  text-align: center;
+  border: 2px solid #6d7682;
+  background: none;
+  border-radius: 5px;
+  color: #6d7682;
+  font-size: 13px;
+  padding: 0px 16px;
+  margin: 50px 28px 0px 10px;
+}
+
+.me h2 {
+  line-height: 109px;
+  margin-left: 903px;
+  font-size: 23px;
+  font-weight: bold;
+  float: left;
+  color: #263244;
+}
+.me {
+  width: 100%;
+  height: 73%;
+  background: url(../img/boy2.png) 862px 120px / 201px 201px no-repeat,
+    url(../img/1.png) 926px 70px / 70px 7px no-repeat,
+    url(../img/fon2.jpg) center 719px / cover no-repeat;
+  margin-top: 40px;
+}
+
+.me p {
+  margin-top: 300px;
+  float: left;
+  color: #2c284a;
+  text-align: center;
+  margin-left: 530px;
+  font-size: 17px;
+  color: #79818d;
+}
+
+p#text2 {
+  margin-top: 40px;
+  float: left;
+  color: #2c284a;
+  text-align: center;
+  margin-left: 530px;
+  font-size: 17px;
+  color: #79818d;
+}
+
+.me input {
+  margin-top: 40px;
+  height: 40px;
+  text-align: center;
+  border: 3px solid #6d7682;
+  background: none;
+  border-radius: 5px;
+  color: #6d7682;
+  font-size: 13px;
+  padding: 10px 25px 10px 25px;
+  line-height: 10px;
+  margin-left: 903px;
+  font-weight: bold;
+  background: url(../img/icon.png) 6px 10px/ 20px 17px no-repeat;
+}
+
+.what {
+  width: 100%;
+  height: 60%;
+  background: url(../img/1.png) 930px 70px / 70px 5px no-repeat,
+    url(../img/nout.png) 497px 275px / 54px 38px no-repeat,
+    url(../img/teg.png) 790px 275px / 54px 38px no-repeat,
+    url(../img/raketa.png) 1087px 275px / 47px 45px no-repeat,
+    url(../img/gramofon.png) 1379px 275px / 47px 45px no-repeat,
+    url(../img/fon3.jpg) 100% 100% / auto 100% no-repeat;
+}
+
+.what h2 {
+  line-height: 109px;
+  margin-left: 890px;
+  font-size: 23px;
+  font-weight: bold;
+  float: left;
+  color: #263244;
+}
+
+.what h4 {
+  margin-top: 300px;
+  bottom: 200px;
+  font-size: 17px;
+  font-weight: bold;
+  float: left;
+  color: #263244;
+  margin-left: auto;
+}
+
+.what p {
+  float: left;
+  height: 50px;
+  margin-left: 20px;
+  width: 20px;
+  bottom: 20px;
+  margin-top: 300px;
+  color: #d58e30;
+
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.keys h2 {
+  line-height: 60px;
+  margin-left: 920px;
+  font-size: 23px;
+  font-weight: bold;
+  float: left;
+  color: #263244;
+}
+
+.keys {
+  width: 100%;
+  height: 100%;
+  background: url(../img/site.jpg) 270px 250px / 1170px 624px no-repeat,
+    url(../img/1.png) 925px 60px / 70px 5px no-repeat;
+}
+
+p#text11 {
+  line-height: 150px;
+  margin-left: 680px;
+  font-size: 10px;
+  font-weight: bold;
+  float: left;
+  color: #263244;
+}
+.keys h3 {
+  margin-top: 700px;
+
+  text-align: 10px;
+  font-size: 17px;
+  font-weight: bold;
+  float: left;
+  color: #263244;
+}
+
+.keys input {
+  height: 40px;
+  text-align: center;
+  border: 4px solid #6d7682;
+  background: none;
+  border-radius: 5px;
+  color: #6d7682;
+  font-size: 13px;
+  padding: 0px 16px;
+  margin: 100px 600px 0px 562px;
+}
