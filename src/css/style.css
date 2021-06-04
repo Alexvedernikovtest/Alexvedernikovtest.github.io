@@ -1,0 +1,521 @@
+body {
+  font-family: Arial, sans-serif;
+}
+nav {
+  width: 100%;
+  height: 60px;
+  background: #344051;
+}
+
+.logo {
+  color: #fff;
+  font-size: 28px;
+  line-height: 60px;
+  margin-left: 388px;
+  float: left;
+}
+
+.menu {
+  float: left;
+  margin-left: 400px;
+}
+
+.menu li {
+  float: left;
+  line-height: 60px;
+  color: #fff;
+  margin-right: 30px;
+  text-transform: uppercase;
+}
+
+.main {
+  width: 100%;
+  height: calc(100% - 60px);
+  background: url(../img/boy.png) 90% 100% / auto 85% no-repeat,
+    url(../img/bg.jpg) center/cover no-repeat;
+}
+
+.title__container {
+  float: left;
+  margin: 330px 0px 0px 404px;
+  color: #2c284a;
+  text-align: center;
+}
+
+.title__container h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.title__container h4 {
+  margin-top: 40px;
+  font-size: 22px;
+  color: #79818d;
+}
+
+.title__container input {
+  height: 40px;
+  text-align: center;
+  border: 3px solid #6d7682;
+  background: none;
+  border-radius: 5px;
+  color: #6d7682;
+  font-size: 13px;
+  padding: 0px 16px;
+  margin: 50px 28px 0px 10px;
+}
+.me {
+  width: 100%;
+  height: 70%;
+  background: url(../img/boy2.png) 860px 150px / auto 201px no-repeat,
+    url(../img/fon2.jpg) center/cover no-repeat;
+}
+
+.me h2 {
+  font-size: 22px;
+  margin-left: 900px;
+  padding-top: 70px;
+}
+
+.me img {
+  margin-top: 20px;
+  margin-left: 917px;
+}
+
+.me p {
+  padding-top: 300px;
+  margin-top: 50px;
+  margin-left: 580px;
+}
+
+.me input {
+  margin-left: 900px;
+  margin-top: 70px;
+  height: 40px;
+  text-align: center;
+  border: 3px solid #6d7682;
+  background: none;
+  border-radius: 5px;
+  color: #6d7682;
+  font-size: 13px;
+  padding: 0px 16px 0px 30px;
+  background: url(../img/icon.png) 10px 10px no-repeat;
+}
+.what h2 {
+  font-size: 22px;
+  margin-left: 885px;
+  padding-top: 70px;
+}
+.what {
+  width: 100%;
+  height: 60%;
+  background: url(../img/nout.png) 523px 276px / 50px 40px no-repeat,
+    url(../img/teg.png) 789px 276px / 50px 40px no-repeat,
+    url(../img/raketa.png) 1090px 276px / 45px 46px no-repeat,
+    url(../img/gramofon.png) 1380px 276px / 48px 44px no-repeat,
+    url(../img/fon3.jpg) center/cover no-repeat;
+}
+.what img {
+  float: left;
+  margin-left: 917px;
+  margin-top: 20px;
+}
+}
+.what p {
+  height: 100px;
+  margin-left: 300px;
+  width: 200px;
+  bottom: 100px;
+  margin-top: 300px;
+  color: #263244;
+  font-size: 10px;
+}
+#web1 {
+  margin-right: 0px;
+  margin-left: 500px;
+  padding-top: 250px;
+  color: #d58e30;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+#opisanie1 {
+  font-size: 15px;
+  margin-left: 440px;
+  padding-top: 40px;
+}
+
+#web2 {
+  margin-left: 770px;
+  margin-top: -100px;
+  color: #d58e30;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+#opisanie2 {
+  font-size: 15px;
+  margin-left: 700px;
+  padding-top: 40px;
+}
+
+#web3 {
+  margin-left: 1035px;
+  margin-top: -100px;
+  color: #d58e30;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+#opisanie3 {
+  font-size: 15px;
+  margin-left: 1000px;
+  padding-top: 40px;
+}
+
+#web4 {
+  margin-left: 1350px;
+  margin-top: -100px;
+  color: #d58e30;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+#opisanie4 {
+  font-size: 15px;
+  margin-left: 1300px;
+  padding-top: 40px;
+}
+
+.keys h2 {
+  font-size: 22px;
+  margin-left: 925px;
+  padding-top: 70px;
+}
+
+.keys img {
+  float: left;
+  margin-left: 925px;
+  margin-top: 20px;
+}
+
+#text11 {
+  padding-top: 50px;
+  margin-top: 50px;
+  margin-left: 630px;
+}
+
+.keys {
+  width: 100%;
+  height: 130%;
+}
+
+#site2 {
+  margin-top: 60px;
+  margin-left: 70px;
+}
+
+#client {
+  font-size: 20px;
+  margin-left: -1165px;
+  padding-top: 700px;
+  float: left;
+  font-weight: bold
+}
+
+#pklient{
+  font-size: 17px;
+  margin-left: -1165px;
+  padding-top: 730px;
+  float: left;
+}
+
+#site3 {
+  font-size: 20px;
+  margin-left: -1165px;
+  padding-top: 800px;
+  float: left;
+  font-weight: bold
+}
+
+#psite{
+  font-size: 17px;
+  margin-left: -1165px;
+  padding-top: 830px;
+  float: left;
+}
+
+#proj {
+  font-size: 20px;
+  margin-left: -800px;
+  padding-top: 700px;
+  float: left;
+  font-weight: bold;
+}
+
+#pproj{
+  font-size: 17px;
+  margin-left: -800px;
+  padding-top: 730px;
+  float: left;
+}
+
+.keys input{
+  margin-top: 900px;
+  margin-left: -1175px;
+  width: 220px;
+  height: 50px;
+  text-align: center;
+  border: 3px solid #63b5ae ;
+  background: #63b5ae ;
+  border-radius: 5px;
+  color: #9bcdc8;
+  font-size: 18px;
+  padding: 0px 25px;
+  font-weight: bold;
+}
+
+.form {
+  width: 100%;
+  height: 80%;
+}
+
+.form p{
+  font-size: 30px;
+  margin-left: 900px;
+  padding-top: 60px;
+  font-weight: bold;
+  
+}
+.form select{
+  height: 40px;
+  width: 600px;
+  text-align: center;
+  border: 3px solid #6d7682;
+  background: #eeeeee;;
+  color: #6d7682;
+  font-size: 13px;
+  padding: 0px 16px;
+  margin-left: 780px;
+  margin-top: 20px;
+}
+
+.form h2 {
+  margin-left: 780px;
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.form h3{
+  margin-left: 780px;
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.form p{
+  margin-left: 1350px;
+  margin-top: -40px;
+  padding-top: -50px;
+  font-weight: bold;
+}
+
+.statistics h2 {
+  font-size: 22px;
+  margin-left: 840px;
+  padding-top: 70px;
+}
+.statistics img {
+  float: left;
+  margin-left: 917px;
+  margin-top: 20px;
+}
+.statistics {
+  width: 100%;
+  height: 60%;
+  background: url(../img/smile.png) 523px 276px / 45px 40px no-repeat,
+    url(../img/teg2.png) 789px 276px / 50px 40px no-repeat,
+    url(../img/ok.png) 1090px 276px / 60px 50px no-repeat,
+    url(../img/kup.png) 1380px 276px / 48px 44px no-repeat,
+    url(../img/fon4.jpg) center/cover no-repeat;
+}
+
+#st1 {
+  margin-right: 0px;
+  margin-left: 520px;
+  padding-top: 250px;
+  color: #d58e30;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#pst1 {
+  font-size: 17px;
+  margin-left: 440px;
+  padding-top: 40px;
+}
+
+#st2 {
+  margin-left: 775px;
+  margin-top: -155px;
+  color: #d58e30;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#pst2 {
+  font-size: 17px;
+  margin-left: 750px;
+  padding-top: 40px;
+}
+
+#st3 {
+  margin-left: 1090px;
+  margin-top: -155px;
+  color: #d58e30;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#pst3 {
+  font-size: 17px;
+  margin-left: 1020px;
+  padding-top: 40px;
+}
+
+#st4 {
+  margin-left: 1385px;
+  margin-top: -155px;
+  color: #d58e30;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#pst4 {
+  font-size: 17px;
+  margin-left: 1330px;
+  padding-top: 40px;
+}
+
+.feedback {
+  width: 100%;
+  height: 70%;
+  background: url(../img/1.png) 905px 100px / auto 5px no-repeat,
+  url(../img/man.png) 860px 150px / auto 201px no-repeat;
+}
+
+.feedback h2 {
+  font-size: 22px;
+  margin-left: 900px;
+  padding-top: 70px;
+  font-weight: bold;
+}
+
+.feedback img {
+  float: left;
+  margin-left: 917px;
+  margin-top: 20px;
+}
+
+.feedback p {
+  padding-top: 30px;
+  margin-top: 50px;
+  margin-left: 600px;
+}
+
+.feedback h4 {
+  padding-top: 300px;
+  margin-top: 50px;
+  margin-left: 580px;
+}
+
+.contacts{
+   width: 100%;
+  height: 80%;
+  background: url(../img/metka.png) 714px 254px no-repeat,
+  url(../img/konvert.png) 940px 254px no-repeat,
+   url(../img/tel.png) 1194px 254px no-repeat,
+   url(../img/1.png) 905px 100px / auto 5px no-repeat
+  ,url(../img/fon5.jpg) center/cover no-repeat;
+}
+
+.contacts h2 {
+  font-size: 22px;
+  margin-left: 860px;
+  padding-top: 70px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.cont{
+  margin-top: -70px;
+  margin-left: 640px;
+}
+
+.contacts input {
+  margin: 20px;
+  width: 300px;
+  height: 30px;
+}
+
+.contacts textarea{
+  margin-left: 20px;
+}
+
+.contacts h3{
+  font-size: 17px;
+  margin-left: 750px;
+  padding-top: 60px;
+  color: #fff;
+}
+
+.cont h4{
+  font-size: 17px;
+  margin-left: 200px;
+  margin-top: 130px;
+  color: #fff;
+}
+
+#otp {
+  font-size: 17px;
+  margin-left: 660px;
+  margin-top: 30px;
+}
+
+#spd {
+  font-size: 17px;
+  margin-left: 660px;
+  margin-top: 120px;
+  color: #fff;
+}
+
+#spd2 {
+  font-size: 17px;
+  margin-left: 860px;
+  margin-top: -15px;
+  color: #fff;
+}
+
+#spd3 {
+  font-size: 17px;
+  margin-left: 1150px;
+  margin-top: -15px;
+  color: #fff;
+}
+
+.map {
+   width: 100%;
+  height: 30%;
+  background: url(../img/map.jpg) center/cover no-repeat;
+}
+
+.footer{
+  width: 100%;
+  height: 40px;
+  background: url(../img/footer.jpg) center/ cover no-repeat;
+}
+
+.footer p {
+  font-size: 15px;
+  margin-left: 760px;
+  color: #fff; 
+}
